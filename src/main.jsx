@@ -1,7 +1,7 @@
 import './index.css'
 
 // ใส่ Link ที่เตรียมไว้ตรงนี้
-const TARGET_URL = 'https://script.google.com/macros/s/AKfycbybcIaXitBu2rOuoQcdcs568GIjVsu1PAHnCqUe4Zju_HmBtZU5Ql2IiNDSpwVXwpAv/exec';
+const TARGET_URL = 'https://script.google.com/macros/s/AKfycbzdUzRWjxtCLW32UtbWjEk3vLui82GRWRITY4csv1JwM9HcL4DW3NyZVJoHSKH8COmx/exec';
 
 // สั่ง Redirect ทันที
 window.location.replace(TARGET_URL);
